@@ -1,0 +1,1306 @@
+<div class="mux-custom-scroll" data-extend="left" data-mux="customScroll" data-target="html" id="ResultsContainer">
+ <div class="scrollable" id="ResultsScrollable">
+  <script type="application/ld+json">
+   {"@context":"https://schema.org","@type":"ItemList","mainEntityOfPage":{
+            "@type":"CollectionPage","@id":"https://www.monster.ca/jobs/search/?q=Engineering&amp;where=Vancouver__2C-BC"
+            }
+            ,"itemListElement":[
+
+                 {"@type":"ListItem","position":1,"url":"https://job-openings.monster.ca/ui-software-engineer-vancouver-bc-ca-apex-systems-inc/224557276"}
+                    ,
+                 {"@type":"ListItem","position":2,"url":""}
+                    ,
+                 {"@type":"ListItem","position":3,"url":"https://job-openings.monster.ca/senior-electrical-engineer-burnaby-bc-ca-primary-engineering-construction/224345214"}
+                    ,
+                 {"@type":"ListItem","position":4,"url":"https://job-openings.monster.ca/senior-applied-data-scientist-vancouver-bc-ca-050-best-buy-canada-ltd/224575290"}
+                    ,
+                 {"@type":"ListItem","position":5,"url":"https://job-openings.monster.ca/design-create-manage-enhance-full-stack-programmer-new-westminster-bc-ca-progas-heating-services-pghs/224708480"}
+                    ,
+                 {"@type":"ListItem","position":6,"url":"https://job-openings.monster.ca/java-fullstack-developer-vancouver-bc-ca-synechron/223846006"}
+                    ,
+                 {"@type":"ListItem","position":7,"url":"https://job-openings.monster.ca/software-technical-architect-vancouver-bc-ca-apisero-inc/222298338"}
+                    ,
+                 {"@type":"ListItem","position":8,"url":""}
+                    ,
+                 {"@type":"ListItem","position":9,"url":"https://job-openings.monster.ca/performance-engineer-supply-chain-north-vancouver-bc-ca-seaspan-ulc/223551108"}
+                    ,
+                 {"@type":"ListItem","position":10,"url":"https://job-openings.monster.ca/full-stack-developer-node-js-vancouver-bc-ca-telus-international-cda-inc/224517195"}
+                    ,
+                 {"@type":"ListItem","position":11,"url":"https://job-openings.monster.ca/engineering-tech-lead-vancouver-bc-ca-matchbox-consulting-group/224504089"}
+                    ,
+                 {"@type":"ListItem","position":12,"url":"https://job-openings.monster.ca/vice-president-engineering-vancouver-bc-ca-randstad/224255247"}
+                    ,
+                 {"@type":"ListItem","position":13,"url":"https://job-openings.monster.ca/technical-artist-vancouver-bc-ca-apex-systems-inc/224608626"}
+                    ,
+                 {"@type":"ListItem","position":14,"url":"https://job-openings.monster.ca/lead-machine-learning-engineer-vancouver-bc-ca-hays/224548753"}
+                    ,
+                 {"@type":"ListItem","position":15,"url":"https://job-openings.monster.ca/power-bi-developer-vancouver-bc-ca-procom/224539905"}
+                    ,
+                 {"@type":"ListItem","position":16,"url":"https://job-openings.monster.ca/tools-software-engineer-vancouver-bc-ca-apex-systems-inc/224522284"}
+                    ,
+                 {"@type":"ListItem","position":17,"url":"https://job-openings.monster.ca/data-engineer-vancouver-bc-ca-apex-systems-inc/224647892"}
+                    ,
+                 {"@type":"ListItem","position":18,"url":"https://job-openings.monster.ca/integration-architect-vancouver-bc-ca-apex-systems-inc/224314328"}
+                    ,
+                 {"@type":"ListItem","position":19,"url":""}
+                    ,
+                 {"@type":"ListItem","position":20,"url":"https://job-openings.monster.ca/platform-development-engineer-vancouver-bc-ca-apex-systems-inc/224314322"}
+                    ,
+                 {"@type":"ListItem","position":21,"url":"https://job-openings.monster.ca/net-fullstack-developer-vancouver-bc-ca-synechron/224558062"}
+                    ,
+                 {"@type":"ListItem","position":22,"url":"https://job-openings.monster.ca/software-systems-integration-engineer-vancouver-bc-ca-apisero-inc/222298971"}
+                    ,
+                 {"@type":"ListItem","position":23,"url":"https://job-openings.monster.ca/microsoft-365-sharepoint-developer-washcorp-12-month-limited-term-employment-north-vancouver-bc-ca-seaspan-ulc/224700832"}
+                    ,
+                 {"@type":"ListItem","position":24,"url":"https://job-openings.monster.ca/engineer-lift-turn-north-vancouver-bc-ca-seaspan-ulc/223342455"}
+                    ,
+                 {"@type":"ListItem","position":25,"url":"https://job-openings.monster.ca/full-stack-developer-vancouver-bc-ca-telus-international-cda-inc/223503032"}
+                    ,
+                 {"@type":"ListItem","position":26,"url":"https://job-openings.monster.ca/solutions-architect-vancouver-bc-ca-telus-international-cda-inc/224283786"}
+                    ,
+                 {"@type":"ListItem","position":27,"url":"https://job-openings.monster.ca/vp-of-engineering-vancouver-bc-ca-matchbox-consulting-group/224038822"}
+                    ,
+                 {"@type":"ListItem","position":28,"url":"https://job-openings.monster.ca/engineering-tech-lead-vancouver-bc-ca-matchbox-consulting-group/224038810"}
+                    ,
+                 {"@type":"ListItem","position":29,"url":"https://job-openings.monster.ca/engineering-tech-lead-vancouver-bc-ca-matchbox-consulting-group/223883422"}
+            ]}
+  </script>
+  <div class="mux-apas-ads" data-ads='[{"sizes":[1,1],"placementId":14162549,"id":"bad1"},{"sizes":[1,1],"placementId":14343737,"id":"bad2"},{"sizes":[728,90],"placementId":14343738,"id":"bad3"}]' data-config='{"targeting":{"Site":"Canada English","mURL":"https%3a%2f%2fwww.monster.ca%2fjobs%2fsearch%2f%3fq%3dEngineering%26where%3dVancouver__2C-BC","lid":"229","Page":"Job Search Results","mesco":[1700190001001,1500127001001]},"member":3525}' data-mux="apasAds">
+  </div>
+  <div class="mux-search-results" data-content-target="#JobPreview" data-emulated-click-attr="coretrackclickauto" data-is-dynamic="true" data-jv-non-job-content="-1" data-mux="searchResults" data-results-page="1" data-results-per-page="25" data-results-placeholder="job-item-placeholder-template" data-results-target="#SearchResults" data-results-template="job-item-template" data-results-total="250" data-results-url="https://www.monster.ca/jobs/search/pagination/?q=Engineering&amp;where=Vancouver__2C-BC&amp;isDynamicPage=true&amp;isMKPagination=true" data-total-search-results="1881">
+   <div class="mux-card mux-job-card" id="SearchResults">
+    <section class="card-content" data-jobid="224557276" data-postingid="ca4362c5-cdf8-48d4-ba14-d3d7c5777aeb" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xapexsyscax" data-m_impr_j_jawsid="480672359" data-m_impr_j_jobid="224557276" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2773" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1132" data-m_impr_j_occid="11904" data-m_impr_j_p="1" data-m_impr_j_postingid="ca4362c5-cdf8-48d4-ba14-d3d7c5777aeb" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="e9209639-e2d2-4e8e-b3f1-884815111f56" href="https://job-openings.monster.ca/ui-software-engineer-vancouver-bc-ca-apex-systems-inc/224557276" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11904','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;UI Software Engineer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xapexsyscax_Apex Systems Inc&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-19T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          UI Software Engineer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Apex Systems Inc
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        6 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content apas-ad" data-mux="searchResultsAds" style="display:none">
+     <div id="bad1">
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224345214" data-postingid="6d290cf5-835b-4c04-9042-2652c0817ccd" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="Primary Engineering &amp; Construction" src="https://securemedia.newjobs.com/clu/xw10/xw102684077wx/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="4" data-m_impr_j_coc="xw102684077wx" data-m_impr_j_jawsid="478179955" data-m_impr_j_jobid="224345214" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2675" data-m_impr_j_lid="229" data-m_impr_j_long="-122.9296" data-m_impr_j_occid="11782" data-m_impr_j_p="2" data-m_impr_j_postingid="6d290cf5-835b-4c04-9042-2652c0817ccd" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="c0b3e5b4-2422-489b-b396-297b9e2f4124" href="https://job-openings.monster.ca/senior-electrical-engineer-burnaby-bc-ca-primary-engineering-construction/224345214" onclick="clickJobTitle('plid=229&amp;pcid=4&amp;poccid=11782','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Senior Electrical Engineer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xw102684077wx_Primary Engineering \u0026 Construction&quot;,&quot;eVar31&quot;:&quot;Burnaby_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-25T12:00&quot;,&quot;eVar53&quot;:&quot;1700169001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">
+          Senior Electrical Engineer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Primary Engineering &amp; Construction
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Burnaby, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        Posted today
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content is-bold" data-jobid="224575290" data-postingid="468ccb19-6551-4e6e-970e-697ccf7fd67e" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="050 Best Buy Canada Ltd." src="https://securemedia.newjobs.com/clu/xbes/xbestbuycax/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xbestbuycax" data-m_impr_j_jawsid="480754888" data-m_impr_j_jobid="224575290" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2096" data-m_impr_j_lid="229" data-m_impr_j_long="-122.9978" data-m_impr_j_occid="11904" data-m_impr_j_p="3" data-m_impr_j_postingid="468ccb19-6551-4e6e-970e-697ccf7fd67e" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="afd9b814-2d0c-4a72-aec3-d5c2f14b24f8" href="https://job-openings.monster.ca/senior-applied-data-scientist-vancouver-bc-ca-050-best-buy-canada-ltd/224575290" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11904','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Senior Applied Data Scientist&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xbestbuycax_050 Best Buy Canada Ltd.&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-19T12:00&quot;,&quot;eVar53&quot;:&quot;1500152001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;bolded-logo&quot;}')">
+          Senior Applied Data Scientist
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         050 Best Buy Canada Ltd.
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        6 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224708480" data-postingid="d6da0bbd-fab9-47bf-9e23-47c4b14c344d" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="4" data-m_impr_j_coc="xw305020742wx" data-m_impr_j_jawsid="482154933" data-m_impr_j_jobid="224708480" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2296" data-m_impr_j_lid="229" data-m_impr_j_long="-122.8914" data-m_impr_j_occid="11747" data-m_impr_j_p="4" data-m_impr_j_postingid="d6da0bbd-fab9-47bf-9e23-47c4b14c344d" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="7d79f2d6-522c-41a6-b30f-000c51b53e33" href="https://job-openings.monster.ca/design-create-manage-enhance-full-stack-programmer-new-westminster-bc-ca-progas-heating-services-pghs/224708480" onclick="clickJobTitle('plid=229&amp;pcid=4&amp;poccid=11747','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Design/Create/Manage/Enhance - Full Stack Programmer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xw305020742wx_ProGas and Heating Services (PGHS)&quot;,&quot;eVar31&quot;:&quot;New Westminster_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-25T12:00&quot;,&quot;eVar53&quot;:&quot;1100041001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          Design/Create/Manage/Enhance - Full Stack Programmer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         ProGas and Heating Services (PGHS)
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         New Westminster, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        Posted today
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="223846006" data-postingid="5c39a30d-2224-4a79-a702-f53fa6f029f2" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="Synechron" src="https://securemedia.newjobs.com/clu/xw46/xw46649090wx/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="11" data-m_impr_j_coc="xw46649090wx" data-m_impr_j_jawsid="473118887" data-m_impr_j_jobid="223846006" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11982" data-m_impr_j_p="5" data-m_impr_j_postingid="5c39a30d-2224-4a79-a702-f53fa6f029f2" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="9ab03b00-66b1-4a90-9d82-10494355f5a3" href="https://job-openings.monster.ca/java-fullstack-developer-vancouver-bc-ca-synechron/223846006" onclick="clickJobTitle('plid=229&amp;pcid=11&amp;poccid=11982','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Java Fullstack Developer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xw46649090wx_Synechron&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-23T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">
+          Java Fullstack Developer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Synechron
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        2 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="222298338" data-postingid="341a42b5-c0ac-4490-83de-49c80e7cdf7a" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xw314994951wx" data-m_impr_j_jawsid="460686176" data-m_impr_j_jobid="222298338" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2762" data-m_impr_j_lid="229" data-m_impr_j_long="-123.0667" data-m_impr_j_occid="11787" data-m_impr_j_p="6" data-m_impr_j_postingid="341a42b5-c0ac-4490-83de-49c80e7cdf7a" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="944c40f2-60bc-483d-82fc-ad47d40aeb8c" href="https://job-openings.monster.ca/software-technical-architect-vancouver-bc-ca-apisero-inc/222298338" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11787','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Software Technical Architect&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xw314994951wx_Apisero, Inc.&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-19T12:00&quot;,&quot;eVar53&quot;:&quot;1500138001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          Software Technical Architect
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Apisero, Inc.
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        6 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content apas-ad" data-mux="searchResultsAds" style="display:none">
+     <div id="bad2">
+     </div>
+    </section>
+    <section class="card-content is-bold" data-jobid="223551108" data-postingid="5bd8054e-ba0f-4ecf-b95e-7c9be3912a58" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="Seaspan ULC" src="https://securemedia.newjobs.com/clu/xsea/xseaspancax/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xseaspancax" data-m_impr_j_jawsid="471320031" data-m_impr_j_jobid="223551108" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.3246" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1186" data-m_impr_j_occid="11847" data-m_impr_j_p="7" data-m_impr_j_postingid="5bd8054e-ba0f-4ecf-b95e-7c9be3912a58" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="e532094d-bf03-4fce-842f-4eb870db2e69" href="https://job-openings.monster.ca/performance-engineer-supply-chain-north-vancouver-bc-ca-seaspan-ulc/223551108" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11847','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Performance Engineer (Supply Chain)&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xseaspancax_Seaspan ULC&quot;,&quot;eVar31&quot;:&quot;North Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-11T12:00&quot;,&quot;eVar53&quot;:&quot;1500123001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;bolded-logo&quot;}')">
+          Performance Engineer (Supply Chain)
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Seaspan ULC
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         North Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        14 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224517195" data-postingid="eeeae15d-4e28-4936-baf1-1487353110bb" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xtelusintcdax" data-m_impr_j_jawsid="480313938" data-m_impr_j_jobid="224517195" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11970" data-m_impr_j_p="8" data-m_impr_j_postingid="eeeae15d-4e28-4936-baf1-1487353110bb" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="3db14af0-ebb3-4654-a803-f131f30d0198" href="https://job-openings.monster.ca/full-stack-developer-node-js-vancouver-bc-ca-telus-international-cda-inc/224517195" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11970','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Full Stack Developer(Node.js)&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xtelusintcdax_TELUS International (CDA) Inc.&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-18T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          Full Stack Developer(Node.js)
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         TELUS International (CDA) Inc.
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        7 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224504089" data-postingid="a0ecf5db-4535-4ed7-8ad6-4f31b1ff9216" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="MatchBox Consulting Group" src="https://securemedia.newjobs.com/clu/xMat/xMatchBx/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="11" data-m_impr_j_coc="xMatchBx" data-m_impr_j_jawsid="480079795" data-m_impr_j_jobid="224504089" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11892" data-m_impr_j_p="9" data-m_impr_j_postingid="a0ecf5db-4535-4ed7-8ad6-4f31b1ff9216" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="cf090c15-e995-452f-9969-b6c6b974fe06" href="https://job-openings.monster.ca/engineering-tech-lead-vancouver-bc-ca-matchbox-consulting-group/224504089" onclick="clickJobTitle('plid=229&amp;pcid=11&amp;poccid=11892','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Engineering Tech Lead&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xMatchBx_MatchBox Consulting Group&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-17T12:00&quot;,&quot;eVar53&quot;:&quot;1700221001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">
+          Engineering Tech Lead
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         MatchBox Consulting Group
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        8 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224255247" data-postingid="96f475c8-bde7-4583-bd08-f079bc911280" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="Randstad" src="https://securemedia.newjobs.com/clu/xrac/xracax/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="11" data-m_impr_j_coc="xracax" data-m_impr_j_jawsid="477268909" data-m_impr_j_jobid="224255247" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11892" data-m_impr_j_p="10" data-m_impr_j_postingid="96f475c8-bde7-4583-bd08-f079bc911280" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="ee2b87d9-868c-4047-80c5-18e1b2fc7313" href="https://job-openings.monster.ca/vice-president-engineering-vancouver-bc-ca-randstad/224255247" onclick="clickJobTitle('plid=229&amp;pcid=11&amp;poccid=11892','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Vice President Engineering&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xracax_Randstad&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-09T12:00&quot;,&quot;eVar53&quot;:&quot;1100041001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">
+          Vice President Engineering
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Randstad
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        16 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224608626" data-postingid="71ed0a23-ec96-4f8a-919d-1509364ed45d" data-ssr="true" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <p class="entry">
+      Interesting opportunity
+     </p>
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSRSEC" data-m_impr_j_cid="660" data-m_impr_j_coc="xapexsyscax" data-m_impr_j_jawsid="481217903" data-m_impr_j_jobid="224608626" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2773" data-m_impr_j_lid="0" data-m_impr_j_long="-123.1133" data-m_impr_j_occid="11904" data-m_impr_j_p="11" data-m_impr_j_postingid="71ed0a23-ec96-4f8a-919d-1509364ed45d" data-m_impr_j_pvc="monster" data-m_impr_s_t="m" data-m_impr_uuid="e544b8d0-6386-4e3c-aa3a-0c08486140d2" href="https://job-openings.monster.ca/technical-artist-vancouver-bc-ca-apex-systems-inc/224608626" onclick="clickJobTitle('plid=0&amp;pcid=660&amp;poccid=11904','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;events.event65&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Technical Artist&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSRSEC&quot;,&quot;eVar26&quot;:&quot;xapexsyscax_Apex Systems Inc&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Full-Time&quot;,&quot;prop24&quot;:&quot;2021-02-22T06:32&quot;,&quot;eVar47&quot;:&quot;monster&quot;,&quot;eVar53&quot;:&quot;2700406001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          Technical Artist
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Apex Systems Inc
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        3 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224548753" data-postingid="e8d0b79b-766e-40f9-b842-e586c24ec344" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="Hays" src="https://securemedia.newjobs.com/clu/xhay/xhayscax/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xhayscax" data-m_impr_j_jawsid="480466818" data-m_impr_j_jobid="224548753" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11904" data-m_impr_j_p="12" data-m_impr_j_postingid="e8d0b79b-766e-40f9-b842-e586c24ec344" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="7b3eb4fd-2942-41d4-a570-a5f36057457a" href="https://job-openings.monster.ca/lead-machine-learning-engineer-vancouver-bc-ca-hays/224548753" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11904','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Lead Machine Learning Engineer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xhayscax_Hays&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-19T12:00&quot;,&quot;eVar53&quot;:&quot;1700190001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">
+          Lead Machine Learning Engineer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Hays
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        6 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224539905" data-postingid="d2e56334-5f71-49bc-a52d-bbd4cfc6cf7b" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="Procom" src="https://securemedia.newjobs.com/clu/xpcc/xpccgx/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xpccgx" data-m_impr_j_jawsid="480444949" data-m_impr_j_jobid="224539905" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11904" data-m_impr_j_p="13" data-m_impr_j_postingid="d2e56334-5f71-49bc-a52d-bbd4cfc6cf7b" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="e86850da-0133-4d79-987d-62cc22babeb2" href="https://job-openings.monster.ca/power-bi-developer-vancouver-bc-ca-procom/224539905" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11904','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Power BI Developer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xpccgx_Procom&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-18T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">
+          Power BI Developer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Procom
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        7 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224522284" data-postingid="bc12d1ec-ca16-46c3-a31e-23014926416b" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xapexsyscax" data-m_impr_j_jawsid="480382900" data-m_impr_j_jobid="224522284" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2773" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1132" data-m_impr_j_occid="11904" data-m_impr_j_p="14" data-m_impr_j_postingid="bc12d1ec-ca16-46c3-a31e-23014926416b" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="f78a3576-1fdf-403e-bd2b-2e1f7b82a358" href="https://job-openings.monster.ca/tools-software-engineer-vancouver-bc-ca-apex-systems-inc/224522284" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11904','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Tools Software Engineer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xapexsyscax_Apex Systems Inc&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-18T12:00&quot;,&quot;eVar53&quot;:&quot;1700178001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          Tools Software Engineer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Apex Systems Inc
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        7 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224647892" data-postingid="b6db1511-e131-4c6d-a0d7-92042531e17b" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xapexsyscax" data-m_impr_j_jawsid="481466861" data-m_impr_j_jobid="224647892" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2857" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1168" data-m_impr_j_occid="11904" data-m_impr_j_p="15" data-m_impr_j_postingid="b6db1511-e131-4c6d-a0d7-92042531e17b" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="07c9341c-17df-4432-a279-dcf86a6f7834" href="https://job-openings.monster.ca/data-engineer-vancouver-bc-ca-apex-systems-inc/224647892" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11904','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Data Engineer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xapexsyscax_Apex Systems Inc&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-23T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          Data Engineer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Apex Systems Inc
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        2 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224314328" data-postingid="298ea41e-d715-4821-b054-2515cfe3006e" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xapexsyscax" data-m_impr_j_jawsid="477983545" data-m_impr_j_jobid="224314328" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11904" data-m_impr_j_p="16" data-m_impr_j_postingid="298ea41e-d715-4821-b054-2515cfe3006e" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="85f1ea89-d6ec-4463-a6d4-70ff6599f164" href="https://job-openings.monster.ca/integration-architect-vancouver-bc-ca-apex-systems-inc/224314328" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11904','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;INTEGRATION ARCHITECT&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xapexsyscax_Apex Systems Inc&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-11T12:00&quot;,&quot;eVar53&quot;:&quot;1500138001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          INTEGRATION ARCHITECT
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Apex Systems Inc
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        14 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content apas-ad" data-mux="searchResultsAds" style="display:none">
+     <div id="bad3">
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224314322" data-postingid="d7037bcc-2c7d-42ee-90f2-258014fa3c6e" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xapexsyscax" data-m_impr_j_jawsid="477983616" data-m_impr_j_jobid="224314322" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2096" data-m_impr_j_lid="229" data-m_impr_j_long="-122.9978" data-m_impr_j_occid="11904" data-m_impr_j_p="17" data-m_impr_j_postingid="d7037bcc-2c7d-42ee-90f2-258014fa3c6e" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="cf3564df-a77b-429e-82a2-1be64c2a9e4d" href="https://job-openings.monster.ca/platform-development-engineer-vancouver-bc-ca-apex-systems-inc/224314322" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11904','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Platform Development Engineer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xapexsyscax_Apex Systems Inc&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-11T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          Platform Development Engineer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Apex Systems Inc
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        14 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224558062" data-postingid="c8b99a0e-5c9e-4801-baf0-e51ba9b1c5b1" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="Synechron" src="https://securemedia.newjobs.com/clu/xw46/xw46649090wx/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xw46649090wx" data-m_impr_j_jawsid="480684550" data-m_impr_j_jobid="224558062" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11970" data-m_impr_j_p="18" data-m_impr_j_postingid="c8b99a0e-5c9e-4801-baf0-e51ba9b1c5b1" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="4c294fa3-de86-4c86-ba1d-5c568f9f1ae3" href="https://job-openings.monster.ca/net-fullstack-developer-vancouver-bc-ca-synechron/224558062" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11970','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;.Net Fullstack Developer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xw46649090wx_Synechron&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-19T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">
+          .Net Fullstack Developer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Synechron
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        6 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="222298971" data-postingid="10e614b9-3a35-455d-bffb-f0edcb5f3c67" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xw314994951wx" data-m_impr_j_jawsid="460686740" data-m_impr_j_jobid="222298971" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2762" data-m_impr_j_lid="229" data-m_impr_j_long="-123.0667" data-m_impr_j_occid="11969" data-m_impr_j_p="19" data-m_impr_j_postingid="10e614b9-3a35-455d-bffb-f0edcb5f3c67" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="dbe1ea33-8231-4597-914a-4dbbf27b0867" href="https://job-openings.monster.ca/software-systems-integration-engineer-vancouver-bc-ca-apisero-inc/222298971" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11969','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Software Systems Integration Engineer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xw314994951wx_Apisero, Inc.&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-19T12:00&quot;,&quot;eVar53&quot;:&quot;1500128001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          Software Systems Integration Engineer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Apisero, Inc.
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        6 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content is-bold" data-jobid="224700832" data-postingid="72b4d135-aefd-4ab4-9d0c-0816468f4270" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="Seaspan ULC" src="https://securemedia.newjobs.com/clu/xsea/xseaspancax/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xseaspancax" data-m_impr_j_jawsid="482048142" data-m_impr_j_jobid="224700832" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.3246" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1186" data-m_impr_j_occid="11970" data-m_impr_j_p="20" data-m_impr_j_postingid="72b4d135-aefd-4ab4-9d0c-0816468f4270" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="6d0cee64-1569-49d3-b36f-61b091aa2154" href="https://job-openings.monster.ca/microsoft-365-sharepoint-developer-washcorp-12-month-limited-term-employment-north-vancouver-bc-ca-seaspan-ulc/224700832" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11970','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Microsoft 365 \u0026 SharePoint Developer (WashCorp) - 12-month Limited Term Employment&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xseaspancax_Seaspan ULC&quot;,&quot;eVar31&quot;:&quot;North Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-24T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;bolded-logo&quot;}')">
+          Microsoft 365 &amp; SharePoint Developer (WashCorp) - 12-month Limited Term Employment
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Seaspan ULC
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         North Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        1 day ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content is-bold" data-jobid="223342455" data-postingid="a78d6c93-ec2a-4b24-8d3a-9e8f09ff8040" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="Seaspan ULC" src="https://securemedia.newjobs.com/clu/xsea/xseaspancax/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="4" data-m_impr_j_coc="xseaspancax" data-m_impr_j_jawsid="470099079" data-m_impr_j_jobid="223342455" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.3246" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1186" data-m_impr_j_occid="11900" data-m_impr_j_p="21" data-m_impr_j_postingid="a78d6c93-ec2a-4b24-8d3a-9e8f09ff8040" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="741c1e8e-a016-4f40-9f5d-f9ae56391d44" href="https://job-openings.monster.ca/engineer-lift-turn-north-vancouver-bc-ca-seaspan-ulc/223342455" onclick="clickJobTitle('plid=229&amp;pcid=4&amp;poccid=11900','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Engineer, Lift \u0026 Turn&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xseaspancax_Seaspan ULC&quot;,&quot;eVar31&quot;:&quot;North Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-09T12:00&quot;,&quot;eVar53&quot;:&quot;1700190001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;bolded-logo&quot;}')">
+          Engineer, Lift &amp; Turn
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         Seaspan ULC
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         North Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        16 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="223503032" data-postingid="5a22cc20-3da5-45b5-90a3-4fccf5e40aab" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xtelusintcdax" data-m_impr_j_jawsid="471082365" data-m_impr_j_jobid="223503032" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11970" data-m_impr_j_p="22" data-m_impr_j_postingid="5a22cc20-3da5-45b5-90a3-4fccf5e40aab" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="0f0bbf17-cee0-4f99-b208-843f0b1dae7b" href="https://job-openings.monster.ca/full-stack-developer-vancouver-bc-ca-telus-international-cda-inc/223503032" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11970','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Full Stack Developer&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xtelusintcdax_TELUS International (CDA) Inc.&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-18T12:00&quot;,&quot;eVar53&quot;:&quot;1500127001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          Full Stack Developer
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         TELUS International (CDA) Inc.
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        7 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224283786" data-postingid="2b6dca24-34f0-4544-8e4f-90e0a48c9360" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail">
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="660" data-m_impr_j_coc="xtelusintcdax" data-m_impr_j_jawsid="477557622" data-m_impr_j_jobid="224283786" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2773" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1132" data-m_impr_j_occid="11787" data-m_impr_j_p="23" data-m_impr_j_postingid="2b6dca24-34f0-4544-8e4f-90e0a48c9360" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="17c47bba-5265-4d19-8cdb-3e215ae48c73" href="https://job-openings.monster.ca/solutions-architect-vancouver-bc-ca-telus-international-cda-inc/224283786" onclick="clickJobTitle('plid=229&amp;pcid=660&amp;poccid=11787','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Solutions Architect&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xtelusintcdax_TELUS International (CDA) Inc.&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-10T12:00&quot;,&quot;eVar53&quot;:&quot;1500138001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;regular&quot;}')">
+          Solutions Architect
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         TELUS International (CDA) Inc.
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        15 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224038822" data-postingid="ed63d0dc-6ddc-4b06-8ca8-9a2ab8555315" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="MatchBox Consulting Group" src="https://securemedia.newjobs.com/clu/xMat/xMatchBx/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="11" data-m_impr_j_coc="xMatchBx" data-m_impr_j_jawsid="474572921" data-m_impr_j_jobid="224038822" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11892" data-m_impr_j_p="24" data-m_impr_j_postingid="ed63d0dc-6ddc-4b06-8ca8-9a2ab8555315" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="00a53d58-12d1-418c-ba0d-3dcddd7fb971" href="https://job-openings.monster.ca/vp-of-engineering-vancouver-bc-ca-matchbox-consulting-group/224038822" onclick="clickJobTitle('plid=229&amp;pcid=11&amp;poccid=11892','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;VP of Engineering&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xMatchBx_MatchBox Consulting Group&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-02T12:00&quot;,&quot;eVar53&quot;:&quot;1100041001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">
+          VP of Engineering
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         MatchBox Consulting Group
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        23 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="224038810" data-postingid="e50178bb-c4f1-4d93-88f4-d917fdbbef20" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="MatchBox Consulting Group" src="https://securemedia.newjobs.com/clu/xMat/xMatchBx/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="11" data-m_impr_j_coc="xMatchBx" data-m_impr_j_jawsid="474573091" data-m_impr_j_jobid="224038810" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.25" data-m_impr_j_lid="229" data-m_impr_j_long="-123.1334" data-m_impr_j_occid="11892" data-m_impr_j_p="25" data-m_impr_j_postingid="e50178bb-c4f1-4d93-88f4-d917fdbbef20" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="a2fa5dd2-d272-4c62-a602-a8e703860f1f" href="https://job-openings.monster.ca/engineering-tech-lead-vancouver-bc-ca-matchbox-consulting-group/224038810" onclick="clickJobTitle('plid=229&amp;pcid=11&amp;poccid=11892','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Engineering Tech Lead&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xMatchBx_MatchBox Consulting Group&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop22&quot;:&quot;Employee&quot;,&quot;prop24&quot;:&quot;2021-02-02T12:00&quot;,&quot;eVar53&quot;:&quot;1700221001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">
+          Engineering Tech Lead
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         MatchBox Consulting Group
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        23 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+    <section class="card-content" data-jobid="223883422" data-postingid="af503969-5ecb-4ecc-88f7-6abcbf71f7a1" onclick="MKImpressionTrackingMouseDownHijack(this, event)">
+     <div class="flex-row">
+      <div class="mux-company-logo thumbnail is-loaded">
+       <img alt="MatchBox Consulting Group" src="https://securemedia.newjobs.com/clu/xMat/xMatchBx/JobLogo.gif"/>
+      </div>
+      <div class="summary">
+       <header class="card-header">
+        <h2 class="title">
+         <a data-bypass="true" data-m_impr_a_placement_id="JSR2CW" data-m_impr_j_cid="4" data-m_impr_j_coc="xMatchBx" data-m_impr_j_jawsid="473383234" data-m_impr_j_jobid="223883422" data-m_impr_j_jpm="1" data-m_impr_j_jpt="1" data-m_impr_j_lat="49.2622" data-m_impr_j_lid="229" data-m_impr_j_long="-123.0928" data-m_impr_j_occid="11951" data-m_impr_j_p="26" data-m_impr_j_postingid="af503969-5ecb-4ecc-88f7-6abcbf71f7a1" data-m_impr_j_pvc="monster" data-m_impr_s_t="t" data-m_impr_uuid="f6713266-8bfc-4e10-8c52-4f2461c79b7e" href="https://job-openings.monster.ca/engineering-tech-lead-vancouver-bc-ca-matchbox-consulting-group/223883422" onclick="clickJobTitle('plid=229&amp;pcid=4&amp;poccid=11951','Engineering',''); clickJobTitleSiteCat('{&quot;events.event48&quot;:&quot;true&quot;,&quot;eVar25&quot;:&quot;Engineering Tech Lead&quot;,&quot;eVar66&quot;:&quot;Monster&quot;,&quot;eVar67&quot;:&quot;JSR2CW&quot;,&quot;eVar26&quot;:&quot;xMatchBx_MatchBox Consulting Group&quot;,&quot;eVar31&quot;:&quot;Vancouver_BC_&quot;,&quot;prop24&quot;:&quot;2021-01-27T12:00&quot;,&quot;eVar53&quot;:&quot;1700221001001&quot;,&quot;eVar50&quot;:&quot;Duration&quot;,&quot;eVar74&quot;:&quot;logo&quot;}')">
+          Engineering Tech Lead
+         </a>
+        </h2>
+       </header>
+       <div class="company">
+        <span class="name">
+         MatchBox Consulting Group
+        </span>
+        <ul class="list-inline">
+        </ul>
+       </div>
+       <div class="location">
+        <span class="name">
+         Vancouver, BC
+        </span>
+       </div>
+      </div>
+      <div class="meta flex-col">
+       <time datetime="2017-05-26T12:00">
+        29 days ago
+       </time>
+       <span class="mux-tooltip applied-only" data-mux="tooltip" title="Applied">
+        <i aria-hidden="true" class="icon icon-applied">
+        </i>
+        <span class="sr-only">
+         Applied
+        </span>
+       </span>
+       <span class="mux-tooltip saved-only" data-mux="tooltip" title="Saved">
+        <i aria-hidden="true" class="icon icon-saved">
+        </i>
+        <span class="sr-only">
+         Saved
+        </span>
+       </span>
+      </div>
+     </div>
+    </section>
+   </div>
+   <a class="mux-btn btn-secondary load-more-btn" data-action="fetch" href="https://www.monster.ca/jobs/search/?page=2" id="loadMoreJobs" role="button">
+    Load more jobs
+   </a>
+   <a class="mux-btn btn-secondary no-more-jobs-btn disabled" id="noMoreResults" role="button" style="display:none">
+    No More Results
+   </a>
+  </div>
+ </div>
+</div>
