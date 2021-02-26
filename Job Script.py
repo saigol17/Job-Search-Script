@@ -28,8 +28,20 @@ for job_elements in findelemt:
     unRefinedFile_two.write(str(job_elements))
 unRefinedFile_two.close()
 
+refinedFile = open("List.txt",'w')
 
-
+for job_elem in findelemt:
+    title_elem = job_elem.find('h2',class_='title')
+    company_elem = job_elem.find('div',class_='company')
+    location_elem = job_elem.find('div',class_='location')
+    if None in(title_elem,company_elem,location_elem):
+        continue
+    refinedFile.write(f'{title_elem.text.strip()}\n{location_elem.text.strip()}\n{company_elem.text.strip()}\n\n')
+    print(title_elem.text.strip())
+    print(company_elem.text.strip())
+    print(location_elem.text.strip())
+    print()
+refinedFile.close()
 
 
 
